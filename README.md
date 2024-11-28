@@ -1,4 +1,4 @@
-# Node.js template
+# Real Time Chat Application
 
 This is a Node.js project.
 
